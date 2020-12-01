@@ -1,24 +1,5 @@
 # markdown-cv
 
-## Project setup
-```
-npm install
-```
+![Logo of Markdown CV](https://markdown-cv.netlify.app/img/markdown-cv.2a00dafb.svg)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8a1f1e00-304f-4af4-8862-cfe643f27869/deploy-status)](https://app.netlify.com/sites/markdown-cv/deploys)
